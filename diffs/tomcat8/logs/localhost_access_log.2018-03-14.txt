@@ -1,0 +1,11 @@
+127.0.0.1 - - [14/Mar/2018:17:17:17 +0800] "GET / HTTP/1.1" 200 11452
+0:0:0:0:0:0:0:1 - - [14/Mar/2018:17:17:18 +0800] "GET /project2/login.jsp HTTP/1.1" 200 3608
+0:0:0:0:0:0:0:1 - - [14/Mar/2018:17:17:22 +0800] "POST /project2/LoginServlet?method=loginCheck HTTP/1.1" 200 14
+0:0:0:0:0:0:0:1 - - [14/Mar/2018:17:17:22 +0800] "POST /project2/LoginServlet?method=loginToCms HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [14/Mar/2018:17:17:22 +0800] "GET /project2/ControlServlet?method=countAll HTTP/1.1" 200 11058
+0:0:0:0:0:0:0:1 - - [14/Mar/2018:17:17:22 +0800] "GET /project2/picture/2_avatar_middle.jpg HTTP/1.1" 404 1066
+0:0:0:0:0:0:0:1 - - [14/Mar/2018:17:19:18 +0800] "GET /project2/login.jsp HTTP/1.1" 200 3608
+0:0:0:0:0:0:0:1 - - [14/Mar/2018:17:19:23 +0800] "POST /project2/LoginServlet?method=loginCheck HTTP/1.1" 200 14
+0:0:0:0:0:0:0:1 - - [14/Mar/2018:17:19:23 +0800] "POST /project2/LoginServlet?method=loginToCms HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [14/Mar/2018:17:19:23 +0800] "GET /project2/ControlServlet?method=countAll HTTP/1.1" 200 11058
+0:0:0:0:0:0:0:1 - - [14/Mar/2018:17:19:23 +0800] "GET /project2/picture/2_avatar_middle.jpg HTTP/1.1" 404 1066

@@ -1,0 +1,33 @@
+11-Dec-2019 21:23:24.078 WARNING [main] org.apache.tomcat.util.digester.SetPropertiesRule.begin [SetPropertiesRule]{Server/Service/Engine/Host/Context} Setting property 'source' to 'org.eclipse.jst.j2ee.server:gift' did not find a matching property.
+11-Dec-2019 21:23:24.078 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version:        Apache Tomcat/8.0.33
+11-Dec-2019 21:23:24.078 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Mar 18 2016 20:31:49 UTC
+11-Dec-2019 21:23:24.078 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server number:         8.0.33.0
+11-Dec-2019 21:23:24.078 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+11-Dec-2019 21:23:24.078 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+11-Dec-2019 21:23:24.094 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+11-Dec-2019 21:23:24.094 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk1.8.0_66\jre
+11-Dec-2019 21:23:24.094 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_66-b17
+11-Dec-2019 21:23:24.094 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+11-Dec-2019 21:23:24.094 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         E:\fordingling\tomcat8
+11-Dec-2019 21:23:24.094 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         E:\fordingling\tomcat8
+11-Dec-2019 21:23:24.094 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=E:\fordingling\tomcat8\conf\logging.properties
+11-Dec-2019 21:23:24.094 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+11-Dec-2019 21:23:24.094 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.endorsed.dirs=E:\fordingling\tomcat8\endorsed
+11-Dec-2019 21:23:24.094 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=E:\fordingling\tomcat8
+11-Dec-2019 21:23:24.094 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=E:\fordingling\tomcat8
+11-Dec-2019 21:23:24.094 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=E:\fordingling\tomcat8\temp
+11-Dec-2019 21:23:24.094 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded APR based Apache Tomcat Native library 1.2.5 using APR version 1.5.1.
+11-Dec-2019 21:23:24.094 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+11-Dec-2019 21:23:25.058 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized (OpenSSL 1.0.2g  1 Mar 2016)
+11-Dec-2019 21:23:25.249 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-apr-8080"]
+11-Dec-2019 21:23:25.343 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["ajp-apr-8009"]
+11-Dec-2019 21:23:25.345 INFO [main] org.apache.catalina.startup.Catalina.load Initialization processed in 1898 ms
+11-Dec-2019 21:23:25.392 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service Catalina
+11-Dec-2019 21:23:25.392 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet Engine: Apache Tomcat/8.0.33
+11-Dec-2019 21:23:25.911 INFO [localhost-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+11-Dec-2019 21:23:26.365 INFO [localhost-startStop-1] org.apache.catalina.util.SessionIdGeneratorBase.createSecureRandom Creation of SecureRandom instance for session ID generation using [SHA1PRNG] took [407] milliseconds.
+11-Dec-2019 21:23:26.389 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory E:\fordingling\tomcat8\webapps\ROOT
+11-Dec-2019 21:23:26.411 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory E:\fordingling\tomcat8\webapps\ROOT has finished in 21 ms
+11-Dec-2019 21:23:26.413 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-apr-8080"]
+11-Dec-2019 21:23:26.423 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["ajp-apr-8009"]
+11-Dec-2019 21:23:26.429 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in 1083 ms
